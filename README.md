@@ -1,5 +1,5 @@
 # docker-go-challange
 
-docker run --rm shedyhs/go
+`docker run shedyhs/go`
 
 https://hub.docker.com/repository/docker/shedyhs/go
